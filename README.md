@@ -14,10 +14,10 @@
 
 ### Hi, I am Saurav Kothari 👋
 
-🔭  I am a full stack engineer with ~6 years of experience working with some of the fastest growing startups. I consider myself to be an engineer first, developer second; i.e, my goal is to solve problems and technology is one of the tools I utilize to solve them.
+🔭 &nbsp; I am a full stack engineer with ~6 years of experience working with some of the fastest growing startups. I consider myself to be an engineer first, developer second; i.e, my goal is to solve problems and technology is one of the tools I utilize to solve them.
 
-⚡  Over the past years I have had the opportunity to work across a wide range of business domains from SaaS to e-commerce. I have worked across the stack over components that have been internal facing as well as user facing and I believe I can emphatize with the end consumer of my product. My experience as a Product Engineer has expanded my horizon to understand business goals and how to and how to tie them to tech goals to create a win-win scenario for everyone involved.
+⚡ &nbsp; Over the past years I have had the opportunity to work across a wide range of business domains from SaaS to e-commerce. I have worked across the stack over components that have been internal facing as well as user facing and I believe I can emphatize with the end consumer of my product. My experience as a Product Engineer has expanded my horizon to understand business goals and how to and how to tie them to tech goals to create a win-win scenario for everyone involved.
 
-😄  I have been fortunate to have worked with various languages and frameworks and feel comfortable learning new ones as needed and switching between them on the go.
+😄 &nbsp; I have been fortunate to have worked with various languages and frameworks and feel comfortable learning new ones as needed and switching between them on the go.
 
 He/Him
