@@ -1,23 +1,8 @@
+Hi, I am Saurav Kothari, a software engineer with 9 years of experience building full stack systems as both an IC and a Lead.
 
-<!--
-**sinstein/sinstein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### Hi, I am Saurav Kothari 👋
-
-🔭 &nbsp; I am a full stack engineer with ~6 years of experience working with some of the fastest growing startups. I consider myself to be an engineer first, developer second; i.e, my goal is to solve problems and technology is one of the tools I utilize to solve them.
-
-⚡ &nbsp; Over the past years I have had the opportunity to work across a wide range of business domains from SaaS to e-commerce. I have worked across the stack over components that have been internal facing as well as user facing and I believe I can emphatize with the end consumer of my product. My experience as a Product Engineer has expanded my horizon to understand business goals and how to and how to tie them to tech goals to create a win-win scenario for everyone involved.
-
-😄 &nbsp; I have been fortunate to have worked with various languages and frameworks and feel comfortable learning new ones as needed and switching between them on the go.
+Over the years, I've gained experience across various business sectors, including Travel, SaaS, and e-commerce. My work has
+spanned across the stack over components that have been internal tools as well as user facing giving me a deep understanding of the
+end-user's needs. I've successfully collaborated with teams like Operations, Policy, and Legal, translating their needs into detailed,
+actionable solutions delivered on time.
 
 He/Him
